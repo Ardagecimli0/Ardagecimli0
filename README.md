@@ -12,7 +12,7 @@
 
 -  📝 I regularly write articles on [dersnotu.net](dersnotu.net)
 
--  💬  Ask me about **Java, OOP, Seo, Html**
+-  💬  Ask me about **Java, OOP, Data Structures, HTML / CSS**
 
 -  📫  How to reach me **ardagecimli70@gmail.com**
 
