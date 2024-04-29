@@ -10,15 +10,13 @@
 
 -  👨‍💻 All of my projects are available at [https://github.com/ardagecimli0](https://github.com/ardagecimli0)
 
--  📝 I regularly write articles on [dersnotu.net](dersnotu.net)
-
 -  💬  Ask me about **Java, OOP, Data Structures, HTML / CSS**
 
--  📫  How to reach me **ardagecimli70@gmail.com**
+-  📫  How to reach me **ardagecimlics@gmail.com**
 
 -  📄  Know about my experiences [www.linkedin.com/in/ardagecimli](www.linkedin.com/in/ardagecimli)
 
--  ⚡  Fun fact **coffe addiction**
+-  ⚡ **coffe addiction**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
