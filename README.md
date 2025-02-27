@@ -12,7 +12,7 @@
 
 -  💬  Ask me about **Java, OOP, Data Structures, HTML / CSS**
 
--  📫  How to reach me **ardagecimlics@gmail.com**
+-  📫  Feel free to reach me **ardagecimli70@gmail.com*
 
 -  📄  Know about my experiences [www.linkedin.com/in/ardagecimli](www.linkedin.com/in/ardagecimli)
 
