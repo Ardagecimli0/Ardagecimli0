@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering student from Turkey</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400" alt="Coding">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="200" alt="Coding">
 </p>
 
 <p align="center">
@@ -19,15 +19,13 @@
 - 💡 I love exploring new technologies and improving my coding skills.
 - 📫 How to reach me: **ardagecimli70@gmail.com**
 - 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/ardagecimli)**
-- ⚡ Fun fact: **I can't start my day without coffee ☕**
-
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://github.com/ardagecimli0/github-readme-tech-stack">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&fontSize=16&lineCount=2&theme=tokyonight&width=600&langs=Java,Spring%20Boot,MySQL,HTML,CSS,Photoshop,JavaScript" alt="Tech Stack"/>
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&fontSize=16&lineCount=2&theme=tokyonight&width=600&langs=Java,Spring%20Boot,MySQL,HTML,CSS,JavaScript,Photoshop" alt="Tech Stack"/>
   </a>
 </p>
 
@@ -59,4 +57,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
-
