@@ -24,13 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Mevcut Tech Stack kartı -->
-  <a href="https://github.com/ardagecimli0/github-readme-tech-stack">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&fontSize=16&lineCount=2&theme=tokyonight&width=600&langs=Java,Spring%20Boot,MySQL,HTML,CSS,JavaScript,Photoshop" alt="Tech Stack"/>
-  </a>
-  
-  <!-- Teknoloji İkonları -->
-  <h3 align="center">Languages and Tools</h3>
+
   <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
