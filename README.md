@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/ardagecimli0/github-readme-tech-stack">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&fontSize=16&lineCount=2&theme=tokyonight&width=600" alt="Tech Stack"/>
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&fontSize=16&lineCount=2&theme=tokyonight&width=600&langs=Java,Spring%20Boot,MySQL,HTML,CSS,Photoshop,JavaScript" alt="Tech Stack"/>
   </a>
 </p>
 
